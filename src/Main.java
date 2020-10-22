@@ -10,6 +10,7 @@ public class Main {
     f4
     f5
     m6
- */
+    f6
+*/
 
 }
