@@ -8,6 +8,11 @@ public class Main {
     f3
     m3
     f4
-    */
+    f5
+    m6
+    f6
+    m7
+    s1
+*/
 
 }
