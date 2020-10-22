@@ -12,6 +12,7 @@ public class Main {
     m6
     f6
     m7
+    s1
 */
 
 }
