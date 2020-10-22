@@ -11,6 +11,7 @@ public class Main {
     f5
     m6
     f6
+    m7
 */
 
 }
